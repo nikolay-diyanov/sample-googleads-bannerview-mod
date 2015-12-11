@@ -1,5 +1,4 @@
 var vmModule = require("./main-view-model");
-var platformModule = require("platform");
 var bannerModule = require("./bannerview");
 
 function pageLoaded(args) {
